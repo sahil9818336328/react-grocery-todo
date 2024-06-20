@@ -1,0 +1,8 @@
+- Grocery bud
+- add item to the list
+- iterate over and display the list
+- edit item via checkbox
+- delete item
+- use local storage to persist data
+- nanoid
+- react-toastify
